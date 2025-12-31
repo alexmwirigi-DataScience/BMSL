@@ -1,0 +1,7 @@
+{
+  "name": "Bonnie Mobile Spares",
+  "description": "Premium wholesale mobile phone parts and professional repair services in Kenya.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
